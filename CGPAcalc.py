@@ -1,6 +1,6 @@
 from tkinter import *
 master = Tk()
-master.title("CGPA Calculator")
+master.title("CGPA Calculator for vtu sems")
 marks=[]
 credits=[]
 #Function To Calculate CGPA
